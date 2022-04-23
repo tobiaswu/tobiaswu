@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Tobias
 
-## A passionate software engineer from Germany
+## A pixel-perfect software engineer from Germany
 
 - 🔭 I’m currently working on a React application at SAP
 - 🌱 In my leisure time I’m learning about web3
