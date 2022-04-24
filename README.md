@@ -39,6 +39,9 @@
   
 ### Get in touch with me
 <div>
+  <a href="https://dev.to/tobiaswu">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.png" alt="dev" height="40"/>
+  </a>
   <a href="https://discord.com/users/tobiswu#7761">
     <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1.png" alt="discord" height="40"/>
   </a>
