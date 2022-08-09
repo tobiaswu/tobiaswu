@@ -42,7 +42,7 @@
   
 ### Get in touch with me
 <div>
-  <a href="mailto:tobias.wupperfeld@icloud.com">
+  <a href="mailto:mail@tobiaswupperfeld.com">
     <img src="https://pngimg.com/uploads/email/email_PNG100751.png" alt="email" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/tobias-wupperfeld/">
