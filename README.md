@@ -3,8 +3,8 @@
 ## An ambitious software engineer from Germany
 
 - 🔭 I’m currently working on a React/TypeScript application at procure.ai
-- 🌱 In my leisure time I’m learning about web3
-- 👯 I’m looking to collaborate on web3 projects
+- 🌱 In my leisure time I’m learning about new technologies
+- 🚀 I’m working on my own applications
 
 ### Languages and tools I'm experienced with 
 <div>
