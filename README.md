@@ -31,21 +31,23 @@
   <a href="https://graphql.org/">
     <img src="https://cdn.freebiesupply.com/logos/large/2x/graphql-logo-png-transparent.png" alt="graphql logo" height="56"/>
   </a>
+  &nbsp;
+  <a href="https://python.org/">
+    <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="python logo" height="56"/>
+  </a>
 </div>
   
 ### Get in touch with me
 <div>
-  <a href="mailto:mail@tobiaswupperfeld.com">
+  <a href="mailto:tobias@wupperfeld.org">
     <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-squares-01/3/70-1024.png" alt="email logo" height="40"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/tobias-wupperfeld/">
     <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG39.png" alt="linkedin logo" height="40"/>
   </a>
-</div>
-<br>
-<div>
-  <a href="https://tobiaswupperfeld.com/">
-    <button>Visit my website</button>
+  &nbsp;
+  <a href="https://www.x.com/tobiaswup/">
+    <img src="https://cdn.mos.cms.futurecdn.net/eTtFuVeKTwqTD42PYMLWuA-1200-80.jpg.webp" alt="x logo" height="40"/>
   </a>
 </div>
