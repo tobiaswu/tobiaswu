@@ -2,11 +2,13 @@
 
 ## An ambitious software engineer from Germany
 
-- 🔭 I’m mainly working on React/TypeScript applications
-- 🌱 I'm interested in AI integrations and building on the ICP blockchain
-- 🚀 I'm indie hacking and building a portfolio of startups (<a href="https://wupperfeld.org/">Wupperfeld Ventures</a>)
+🤖 I’m running an AI software agency (<a href="https://digitizerspace.com/">Digitizerspace</a>) building AI-powered web apps and scripts that automate business processes.
+<br/>
+🔐 I'm interested in blockchain development and building fully on-chain apps on the ICP
+<br/>
+🚀 I'm indie hacking and building a portfolio of startups (<a href="https://wupperfeld.org/">Wupperfeld Ventures</a>)
 
-### Languages and tools I'm experienced with 
+### Languages and tools I love building with
 <div>
   <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">
     <img src="https://pluspng.com/img-png/javascript-vector-png-javascript-vector-logo-600.png" alt="javascript logo" height="56"/>
@@ -20,16 +22,12 @@
     <img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_logotype_emblem.png" alt="react logo" height="56"/>
   </a>
   &nbsp;
-  <a href="https://jestjs.io/docs/getting-started">
-    <img src="https://dz2cdn1.dzone.com/storage/temp/13130265-jest-logo-png-transparent.png" alt="jest logo" height="56"/>
+  <a href="https://nextjs.org/">
+    <img src="https://github.com/marcbruederlin/vscode-next-icons/raw/HEAD/marketplace-icon.png" alt="nextjs logo" height="56"/>
   </a>
   &nbsp;
-  <a href="https://nodejs.org/en/docs/">
-    <img src="https://www.mindrops.com/images/nodejs-image.png" alt="nodejs logo" height="56"/>
-  </a>
-  &nbsp;
-  <a href="https://graphql.org/">
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/graphql-logo-png-transparent.png" alt="graphql logo" height="56"/>
+  <a href="https://tailwindcss.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwindcss logo" height="56"/>
   </a>
   &nbsp;
   <a href="https://python.org/">
