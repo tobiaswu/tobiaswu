@@ -3,10 +3,7 @@
 ## An ambitious software engineer from Germany
 
 🤖 I’m running an AI software agency (<a href="https://digitizerspace.com/">Digitizerspace</a>) building AI-powered web apps and scripts that automate business processes.
-<br/>
-🔐 I'm interested in blockchain development and building fully on-chain apps on the ICP
-<br/>
-🚀 I'm indie hacking and building a portfolio of startups (<a href="https://wupperfeld.org/">Wupperfeld Ventures</a>)
+<br>
 
 ### Languages and tools I love building with
 <div>
