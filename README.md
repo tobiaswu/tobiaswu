@@ -2,15 +2,11 @@
 
 ## An ambitious software engineer from Germany
 
-🤖 I’m running an AI software agency (<a href="https://digitizerspace.com/">Digitizerspace</a>) building AI-powered web apps and scripts that automate business processes.
+🤖 I’m running an AI software agency (<a href="https://www.paperlesszone.com/">PaperlessZone</a>) building AI-powered web apps and scripts that automate business processes.
 <br>
 
 ### Languages and tools I love building with
 <div>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">
-    <img src="https://pluspng.com/img-png/javascript-vector-png-javascript-vector-logo-600.png" alt="javascript logo" height="56"/>
-  </a>
-  &nbsp;
   <a href="https://www.typescriptlang.org/docs/home.html">
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" alt="typescript logo" height="56"/>
   </a>
@@ -21,10 +17,6 @@
   &nbsp;
   <a href="https://nextjs.org/">
     <img src="https://github.com/marcbruederlin/vscode-next-icons/raw/HEAD/marketplace-icon.png" alt="nextjs logo" height="56"/>
-  </a>
-  &nbsp;
-  <a href="https://tailwindcss.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwindcss logo" height="56"/>
   </a>
   &nbsp;
   <a href="https://python.org/">
