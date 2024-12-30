@@ -2,7 +2,7 @@
 
 ## An ambitious software engineer from Germany
 
-🤖 I’m running an AI software agency (<a href="https://www.paperlesszone.com/">PaperlessZone</a>) building AI-powered web apps and scripts that automate business processes.
+🤖 I’m running an AI software agency (<a href="https://www.madebyagents.com/">MadebyAgents</a>) building AI-powered web apps and scripts that automate business processes.
 <br>
 
 ### Languages and tools I love building with
