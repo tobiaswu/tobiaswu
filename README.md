@@ -8,7 +8,7 @@
 ### Languages and tools I love building with
 <div>
   <a href="https://www.typescriptlang.org/docs/home.html">
-    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" alt="typescript logo" height="56"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="typescript logo" height="56"/>
   </a>
   &nbsp;
   <a href="https://reactjs.org/docs/getting-started.html">
