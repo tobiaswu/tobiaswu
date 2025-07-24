@@ -32,10 +32,6 @@ I work with a range of **modern frameworks** and **libraries**, including **Next
 ## Let’s Connect
 
 <div>
-  <a href="mailto:tobias@wupperfeld.org" title="Email me">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-squares-01/3/70-1024.png" alt="Email" style="height: 40px; width: auto;"/>
-  </a>
-  &nbsp;
   <a href="https://youtube.com/@madebyagents" title="Follow me on YouTube">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" alt="YouTube" style="height: 40px; width: auto;"/>
   </a>
